@@ -7,6 +7,10 @@ boleto) + liberação de acesso automática, e **login sem senha via magic link*
 nos projetos INEMA (`pay.inema.pro`, `inema.pro`, `inemaonline`) — sem nenhum dado
 real de conta, chave ou domínio.
 
+## 📖 Guia de uso
+
+Guia completo (landing + passo a passo): **https://inematds.github.io/saas-pay/guia/**
+
 Não é uma lib instalável (`npm install`) — é um **guia + código de exemplo** pra você
 adaptar e colar no seu projeto. Tudo em `examples/` é TypeScript funcional, só trocando
 nomes de tabela/domínio pelos seus.
